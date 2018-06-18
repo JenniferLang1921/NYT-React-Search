@@ -1,6 +1,8 @@
 # New York Times React Article Search
 
-![New York Times React Article Search](https://github.com/JenniferLang1921/Web-Developer-Portfolio/blob/master/assets/images/ted-talks.png)
+-not finished yet
+
+
 
 ## Description
 
@@ -12,7 +14,7 @@ Frontend Technologies Used: Javascript, Jquery,  HTML5, React.js
 
 ## Demo
 
- Check out this website New York Times React Article Search at 
+ Check out this website New York Times React Article Search at XXXXXXXXXXXXXXX
 
 #Technologies Used
 React.js, MongoDB, Mongoose, Express, Node, body-parser, JXL, react-router-dom 
